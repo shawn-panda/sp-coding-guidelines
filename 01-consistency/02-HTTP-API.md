@@ -16,7 +16,8 @@
    * PathVar：放置在URL最后；
 
 #### 1.2. URL 示例
- * http://api.company.com/1.0/crm/user/create
+ * http://api.demo.com/1.0/crm/user/create
+ * http://api.crm.demo.com/1.0/user/create
 
 #### 1.3. URL 表格
 
