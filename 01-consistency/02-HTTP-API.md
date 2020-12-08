@@ -22,7 +22,7 @@
 #### 1.2. URL 示例
  * http://api.demo.com/1.0/crm/user/create
  * http://api.crm.demo.com/1.0/user/create
- * http://api.crm.demo.com/1.0/user/heartbeat
+ * http://api.crm.demo.com/1.0/user/heartbeat/3
 
 #### 1.3. URL 表格
 

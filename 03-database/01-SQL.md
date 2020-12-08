@@ -18,7 +18,7 @@ SELECT o.user_id, o.order_amount, o.pay_amount, o.pay_datetime, o.order_status,
        u.user_name, u.user_gender, u.user_status, u.user_birthday
   FROM tbl_order_info AS o 
   LEFT JOIN tbl_user_info AS u 
-    ON o.member_id = u.member_id 
+    ON o.user_id = u.user_id 
   LEFT JOIN tbl_goods_info AS g 
     ON o.goods_id = g.goods_id 
  WHERE o.pay_datetime BETWEEN '2020-10-20 00:00:00' AND '2020-10-21 23:59:59'
