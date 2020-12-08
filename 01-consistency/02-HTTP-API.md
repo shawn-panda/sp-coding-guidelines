@@ -7,6 +7,7 @@
  * 风格：小写字母，单词组合使用中杠分割；
  * 语义化：一个功能点对应一个唯一URL，快速识别资源；
  * 支持方法：仅使用 GET/POST，废弃 DELETE/PUT/PATCH；
+   * 实现语义化
    * 便于其它功能支持（路由、权限控制等）
  * URL组成：/{version}/{system}/{module}/{operate}
    * 版本：第一位置
@@ -14,10 +15,14 @@
    * 模块：第三位置
    * 操作：第四位置
    * PathVar：放置在URL最后；
+ * 心跳接口: 每个独立的服务须提供心跳接口
+   * 心跳URL: /{version}/{system}/{module}/heartbeat/{level}
+   * Level等级: { 0:空转; 1:读操作; 2:写操作(模拟); 3:读+写(模拟); ... 9:自定义核心业务(模拟); }
 
 #### 1.2. URL 示例
  * http://api.demo.com/1.0/crm/user/create
  * http://api.crm.demo.com/1.0/user/create
+ * http://api.crm.demo.com/1.0/user/heartbeat
 
 #### 1.3. URL 表格
 
