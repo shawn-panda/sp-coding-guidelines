@@ -50,8 +50,8 @@
    * date: "2020-10-20"；
    * datetime: "2020-10-20T10:00:00Z"；
  * 内容组成：
-   * code：状态码，详见 [[错误码设计](../02-error-code/README.md)]
-   * message：错误描述，详见 [[错误码设计](../02-error-code/README.md)]
+   * code：状态码，详见 [[错误码设计](../02-parent-project/02-ERROR-CODE.md)]
+   * message：错误描述，详见 [[错误码设计](../02-parent-project/02-ERROR-CODE.md)]
    * data：返回数据
    * enum：字典/枚举值 [可选]
 

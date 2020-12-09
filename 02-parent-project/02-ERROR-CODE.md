@@ -1,5 +1,6 @@
 # 错误码
 
+
 ### 一、错误码说明
 
 #### 1.1. 格式说明
@@ -17,6 +18,7 @@
  * 13 : 消息/message;
  * 14 : 券类/coupon;
  * 15 : 积分/point;
+
 
 ### 二、代码组织
 #### 2.1. IErrorCode.java
@@ -67,6 +69,7 @@ public class BizServiceException extends RuntimeException {
 
     //...
 ```
+
 
 ### 三、使用示例
 
