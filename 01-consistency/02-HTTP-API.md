@@ -53,7 +53,7 @@
    * code：状态码，详见 [[错误码设计](../02-error-code/README.md)]
    * message：错误描述，详见 [[错误码设计](../02-error-code/README.md)]
    * data：返回数据
-   * enum：字典/枚举值
+   * enum：字典/枚举值 [可选]
 
 #### 2.2. Response 示例
 ```json

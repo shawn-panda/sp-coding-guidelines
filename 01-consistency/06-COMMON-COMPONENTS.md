@@ -1,7 +1,7 @@
 # 公共组件
 
 
-### 一、对象存储（OSS）
+### 一、对象存储（CDN / OSS）
  * 须有目录规划: 标识文件所属功能，以及限制单个文件夹文件数量；
  * 须有公私分区: 权限隔离；
  * 前端直接上传OSS，返回URL给后端； 
@@ -9,8 +9,8 @@
    * 规范: /public/asserts/{version}/{system}/[css|js|img]/{unique-name}.png
    * 示例: /public/asserts/1.0/crm/img/logo-128px.png
  * 功能型文件规划:
-   * 规范: /private/{version}/{system}/{module}/{sub-module}/{date}/{hash-name}.jpg
-   * 示例: /private/1.0/crm/order/comments/20201212/30a16bf311b172be6180d5e6375dbc90.jpg
+   * 规范: /private/{system}/{module}/{sub-module}/{date}/{hash-name}.jpg
+   * 示例: /private/crm/order/comments/20201212/30a16bf311b172be6180d5e6375dbc90.jpg
 
 
 
@@ -38,7 +38,7 @@
 ### 三、消息队列（MQ）
  * MQ两大使用场景: 应用解耦，以及流量削锋；
  * 尽量少使用MQ；（控制成本，MQ很贵，会增加系统复杂度）
- * 减少创建Topic，尽量采用Tag；（Topic很贵）
+ * 减少创建Topic，尽量采用Tag；（控制成本，Topic很贵）
 
 
 
