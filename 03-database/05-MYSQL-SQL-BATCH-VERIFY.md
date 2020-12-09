@@ -22,7 +22,7 @@ BEGIN
     -- 创建游标
     DECLARE cur CURSOR FOR 
     SELECT id, CONCAT('EXPLAIN ', sql_clause) AS sqlExplain
-      FROM tag_sql_info
+      FROM crm_sql_info
     ;
 
     -- 指定游标循环结束时的返回值

@@ -1,6 +1,6 @@
 # Mysql查看库、表占用存储空间大小
 
-### 1. 查看该数据库实例下所有库大小，得到的结果是以MB为单位
+### 1. 查看该数据库实例下所有库大小
 
 ```sql
 SELECT CONCAT(TABLE_SCHEMA, '.', TABLE_NAME) AS `TableName`,
@@ -47,7 +47,7 @@ SELECT CONCAT(ROUND(SUM(data_length)/1024/1024, 2),'mb') AS data_size,
 ### 4、查看单个表的状态
 
 ```sql
-SHOW TABLE STATUS FROM yinli_member WHERE `name` = 'crm_order_info'
+SHOW TABLE STATUS FROM `db-mall` WHERE `name` = 'crm_order_info'
 ;
 ```
 
