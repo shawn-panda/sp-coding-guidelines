@@ -52,7 +52,7 @@
  * 其余分支保持清晰的需求变更线；
 
 
-### 四、cherry-pick
+### 四、附1：cherry-pick
 
 ```sh
 git cherry-pick 254a7deb
@@ -62,7 +62,7 @@ git push
 ```
 
 
-### 五、rebase
+### 五、附2：rebase
 
 ```sh
 git log 取到要保留的最后一次commit 
