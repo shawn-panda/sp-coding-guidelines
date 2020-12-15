@@ -40,12 +40,17 @@
  * [CI/CD] => 自动构建部署；
 
 #### 3.4. 线上验收
+ * 从 [master] check-out [release]-{date} 分支
  * 基于[release]分支：规整提交记录；
  * 按需求逐个 cherry-pick 提交，将一个需求的多个提交折叠为一个提交；
    * [REQ-9527]用户信息增加头像编辑
    * [BUG-9555]用户注册短信偶发失败
- * 基于[beta]分支：cherry-pick 各提交；
+ * 基于[beta]分支：cherry-pick 各需求提交；
+ * 不用[release]替代[beta]的原因是，避免在规整时频繁触发构建；
  * [CI/CD] => 自动构建部署；
+ 
+ 
+ 
 
 #### 3.5. 发布生产
  * 基于[release]分支：提交合并请求至 [master]；
