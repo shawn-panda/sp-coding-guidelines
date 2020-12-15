@@ -10,7 +10,7 @@
 
 | slug  | 环境     | 分支                     | 说明            |
 |-------|----------|--------------------------|-----------------|
-| [local] | 本地环境 | origin/develop/{author}  | [3.1. 开发阶段] |
+| [local] | 本地环境 | origin/local/{author}  | [3.1. 开发阶段] |
 | [dev]   | 开发环境 | origin/deploy/dev        | [3.2. 自测阶段] |
 | [uat]   | 测试环境 | origin/deploy/uat        | [3.3. 测试阶段] |
 | [beta]  | 灰度环境 | origin/deploy/beta       | [3.4. 线上验收] |
