@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-24T08:59:49.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="OtvT15og05ZOkpauo7u1" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-24T09:34:59.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="0O6hwuOIyNHFpXYQ9rJg" version="14.1.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,10 +35,10 @@
           <mxGeometry x="100" y="160" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNflH9_Xu9aTYOmNW74D-10" value="&lt;span style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;MQ : ${env}_yinli_mot_event_scene&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#9AC7BF;fillColor=#006633;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="320" width="340" height="40" as="geometry" />
+          <mxGeometry x="100" y="340" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNflH9_Xu9aTYOmNW74D-11" value="&lt;span style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;MQ : ${env}_yinli_mot_scene_task&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#9AC7BF;fillColor=#006633;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="480" width="340" height="40" as="geometry" />
+          <mxGeometry x="100" y="500" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNflH9_Xu9aTYOmNW74D-13" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&amp;nbsp;BIZ : 查询会员状态，正常则继续，异常则结束&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#006633;strokeWidth=1;fillColor=#FFD966;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="280" width="340" height="40" as="geometry" />
@@ -59,10 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sNflH9_Xu9aTYOmNW74D-18" value="&lt;span style=&quot;color: rgb(255 , 255 , 255) ; white-space: normal&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;MQ : ${env}_yinli_mot_task&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#9AC7BF;fillColor=#006633;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="640" width="340" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sNflH9_Xu9aTYOmNW74D-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="sNflH9_Xu9aTYOmNW74D-19" target="sNflH9_Xu9aTYOmNW74D-18">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="100" y="660" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sNflH9_Xu9aTYOmNW74D-19" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&amp;nbsp;BIZ : 记录任务到 mot_task / mot_timing_task&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#006633;strokeWidth=1;fillColor=#FFD966;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="600" width="340" height="40" as="geometry" />
