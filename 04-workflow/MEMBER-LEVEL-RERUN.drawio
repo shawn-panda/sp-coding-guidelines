@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T11:21:47.414Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="H5rxNBls4hZdAMIMrIPQ" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-13T11:23:02.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="pWXSJOroHzwt3Ij7Znne" version="14.1.2" type="github">
   <diagram id="gUxt7FaEf-Kk89n041io" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,13 +29,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G0XDKm17rJ_6QTCPzixr-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;消费日期之后&lt;br&gt;&lt;b&gt;是否有自动等级变更&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="305" width="200" height="80" as="geometry" />
+          <mxGeometry x="40" y="300" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="G0XDKm17rJ_6QTCPzixr-10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;结束&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="80" y="420" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G0XDKm17rJ_6QTCPzixr-17" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b style=&quot;line-height: 120%&quot;&gt;否&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="400" width="30" height="20" as="geometry" />
+          <mxGeometry x="140" y="390" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G0XDKm17rJ_6QTCPzixr-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G0XDKm17rJ_6QTCPzixr-19" target="G0XDKm17rJ_6QTCPzixr-43">
           <mxGeometry relative="1" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="360" y="60" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G0XDKm17rJ_6QTCPzixr-21" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b style=&quot;line-height: 120%&quot;&gt;是&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="350" width="30" height="20" as="geometry" />
+          <mxGeometry x="260" y="310" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G0XDKm17rJ_6QTCPzixr-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G0XDKm17rJ_6QTCPzixr-22" target="G0XDKm17rJ_6QTCPzixr-24">
           <mxGeometry relative="1" as="geometry" />
@@ -83,19 +83,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G0XDKm17rJ_6QTCPzixr-32" value="&lt;span style=&quot;font-size: 14px&quot;&gt;对比&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;会员当前&lt;br&gt;&lt;b&gt;是否有等级变化&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="420" width="200" height="80" as="geometry" />
+          <mxGeometry x="340" y="400" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="G0XDKm17rJ_6QTCPzixr-34" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b style=&quot;line-height: 120%&quot;&gt;否&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="470" width="30" height="20" as="geometry" />
+          <mxGeometry x="260" y="410" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G0XDKm17rJ_6QTCPzixr-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="G0XDKm17rJ_6QTCPzixr-37" target="G0XDKm17rJ_6QTCPzixr-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G0XDKm17rJ_6QTCPzixr-37" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;1、执行会员等级变更&lt;br&gt;2、记录等级变更日志&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="555" width="160" height="45" as="geometry" />
+          <mxGeometry x="360" y="510" width="160" height="45" as="geometry" />
         </mxCell>
         <mxCell id="G0XDKm17rJ_6QTCPzixr-39" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b style=&quot;line-height: 120%&quot;&gt;是&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="510" width="30" height="20" as="geometry" />
+          <mxGeometry x="450" y="480" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="G0XDKm17rJ_6QTCPzixr-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="G0XDKm17rJ_6QTCPzixr-43" target="G0XDKm17rJ_6QTCPzixr-22">
           <mxGeometry relative="1" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry x="580" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G0XDKm17rJ_6QTCPzixr-57" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b style=&quot;line-height: 120%&quot;&gt;否&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="190" width="30" height="20" as="geometry" />
+          <mxGeometry x="450" y="190" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
