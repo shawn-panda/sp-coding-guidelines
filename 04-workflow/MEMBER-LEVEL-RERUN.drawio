@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-13T11:34:55.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="2rR-UzWmXywRa6IW0x49" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-13T11:35:47.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="eJ0dXjQgt94Fd1KIzANp" version="14.1.2" type="github">
   <diagram id="gUxt7FaEf-Kk89n041io" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G0XDKm17rJ_6QTCPzixr-24" value="&lt;font style=&quot;font-size: 14px&quot;&gt;试算日期&lt;br&gt;&lt;b&gt;是否为当前日期&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="260" width="200" height="60" as="geometry" />
+          <mxGeometry x="360" y="260" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G0XDKm17rJ_6QTCPzixr-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="G0XDKm17rJ_6QTCPzixr-28" target="G0XDKm17rJ_6QTCPzixr-19">
           <mxGeometry relative="1" as="geometry" />
@@ -88,7 +88,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G0XDKm17rJ_6QTCPzixr-32" value="&lt;span style=&quot;font-size: 14px&quot;&gt;对比&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;会员当前&lt;br&gt;&lt;b&gt;是否有等级变化&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="420" width="200" height="70" as="geometry" />
+          <mxGeometry x="360" y="420" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="G0XDKm17rJ_6QTCPzixr-34" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b style=&quot;line-height: 120%&quot;&gt;否&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="430" width="30" height="20" as="geometry" />
